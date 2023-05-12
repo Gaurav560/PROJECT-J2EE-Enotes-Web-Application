@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/Gaurav560/PROJECT-J2EE-Enotes-Web-Application/image?font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Floating%20Cogs&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-<p id="description">The name of the project is Enotes which is basically a note tracking web application.It is an advanced java project made to master J2SE skills.</p>
+<p id="description">The name of the project is Enotes which is basically a note-tracking web application. It is an advanced Java project made to master J2SE skills.</p>
 
 <h2>🚀 Demo</h2>
 
@@ -53,11 +53,11 @@ Here're project's features:
 
 <p>4. Add MySQL Connector to the user library path</p>
 
-<p>5. install tomcat 9 and configure it in eclipse</p>
+<p>5. install tomcat 9 and configure it in Eclipse </p>
 
-<p>6. Use a SQl Databse and configure the connection details make databse and tables according to the code</p>
+<p>6. Use a SQL Database and configure the connection details to make database and tables according to the code</p>
 
-<p>7. configure the APache Tomcat Server and run on your localhost</p>
+<p>7. configure the Apache Tomcat Server and run on your localhost</p>
 
 <h2>🍰 Contribution Guidelines:</h2>
 
@@ -70,18 +70,18 @@ make changes in a separate branch and get it reviewed by me before making any co
 Technologies used in the project:
 
 *   Language Used: Java 8
-*   Database:MySQL
+*   Database: MySQL
 *   Frontend: JSP
-*   Validations:JSTL
-*   Logic:SERVLET
+*   Validations: JSTL
+*   Logic: SERVLET
 *   Version Control: Git and GitHub
-*   Server-Engine:TOMCAT9
+*   Server-Engine: TOMCAT9
 *   Design Framework: BootStrap
 *   FontAwesome6 Library
-*   Ide:Eclipse
-*   Database Gui Application:MySQLYog
-*   JDBC Api
-*   Web Browser:Chrome
+*   Ide: Eclipse
+*   Database Gui Application: MySQLYog
+*   JDBC API
+*   Web Browser: Chrome
 
 <h2>🛡️ License:</h2>
 
